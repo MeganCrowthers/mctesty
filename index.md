@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to the Virtual Worker
 
-You can use the [editor on GitHub](https://github.com/MeganCrowthers/mctesty/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Norbert, also known as the virtual worker, is a virtual assistant that handles incoming emails for West & North Northants Council. Norbert will log them within the customer services record management system and either resolve the query with a suitable response or redirect the enquiry to someone who can review and respond.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Norbert is able to answer frequently ask questions received by their customer, enabling that 27/7am support. This includes re-direction to online services available on the authority website, as well as re direction to other sovereign authority websites, partners and organisations.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MeganCrowthers/mctesty/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This removes the need for a customer services agent to resolve simple queries requiring an almost “pre-packaged” response and enables the customer to get an almost simultaneous reply, freeing up agents to spend their time on resolving more complex issues that require that dedicated time. 
+### [Documents](https://www.microsoft.com/en-gb/microsoft-365/sharepoint/collaboration)
+### [Report An Issue or Share an Idea](https://github.com/FutureNorthants/VirtualWorker/issues/new/choose)
